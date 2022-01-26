@@ -28,7 +28,7 @@ if (NomeDaPeca.length >= 3) {                                                   
     console.log("O Nome da Peca Deve Conter 3 ou mais Caracteres");
 }
 
-if(Peso == true && Capacidade == true && Nome == true) {                            // Faz uma Verificação Final para Conferir se Todos os Requisitos foram Atingidos
+if (Peso == true && Capacidade == true && Nome == true) {                            // Faz uma Verificação Final para Conferir se Todos os Requisitos foram Atingidos
     console.log ("Cadastro da Peca Concluido com Sucesso.");
 } else {
     console.log ("O Cadastro Nao Pode ser Concluido, Verifique os Dados Inseridos e Tente Novamente.");
